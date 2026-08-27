@@ -1,0 +1,1108 @@
+{
+  "documents": [
+    {
+      "documentId": "doc-c6d3a520-00a6-4d57-92b4-0c86630f019b",
+      "filename": "DL Back.jpeg",
+      "originalFilename": "DL Back.jpeg",
+      "mimeType": "image/jpeg",
+      "fileType": "image/jpeg",
+      "size": 115194,
+      "fileSize": 115194,
+      "folderId": null,
+      "ownerId": "user-1",
+      "s3Key": "users/user-1/documents/doc-c6d3a520-00a6-4d57-92b4-0c86630f019b/DL Back.jpeg",
+      "category": "GENERAL",
+      "tags": [
+        "general"
+      ],
+      "isFavorite": false,
+      "deleted": true,
+      "status": "COMPLETED",
+      "createdAt": "2026-08-26T07:08:53.051Z",
+      "updatedAt": "2026-08-26T07:09:23.985Z"
+    },
+    {
+      "documentId": "doc-1cb2993a-5cf4-4b0f-b6b5-435f01df8a82",
+      "filename": "PHASE 2 REPORT.docx",
+      "originalFilename": "PHASE 2 REPORT.docx",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": 41459,
+      "fileSize": 41459,
+      "folderId": "folder-0e455cb3-f9db-40c8-be11-c1504dfb987b",
+      "ownerId": "user-1",
+      "s3Key": "users/user-1/documents/doc-1cb2993a-5cf4-4b0f-b6b5-435f01df8a82/PHASE 2 REPORT.docx",
+      "category": "FINANCIAL",
+      "tags": [
+        "financial"
+      ],
+      "isFavorite": true,
+      "deleted": true,
+      "status": "COMPLETED",
+      "createdAt": "2026-08-25T16:35:53.241Z",
+      "updatedAt": "2026-08-26T07:09:27.477Z"
+    },
+    {
+      "documentId": "doc-fd3c588b-6239-4495-a8e6-d5615e0e02e2",
+      "filename": "project phase1 pdf.pdf",
+      "originalFilename": "project phase1 pdf.pdf",
+      "mimeType": "application/pdf",
+      "fileType": "application/pdf",
+      "size": 774155,
+      "fileSize": 774155,
+      "folderId": null,
+      "ownerId": "user-1",
+      "s3Key": "users/user-1/documents/doc-fd3c588b-6239-4495-a8e6-d5615e0e02e2/project phase1 pdf.pdf",
+      "category": "GENERAL",
+      "tags": [
+        "general"
+      ],
+      "isFavorite": true,
+      "deleted": true,
+      "status": "COMPLETED",
+      "createdAt": "2026-08-25T16:32:51.259Z",
+      "updatedAt": "2026-08-26T07:09:33.560Z"
+    },
+    {
+      "documentId": "doc-d384bcba-dfbb-4c8c-ad13-4f483c950712",
+      "filename": "DL Front (5).jpeg",
+      "originalFilename": "DL Front (5).jpeg",
+      "mimeType": "image/jpeg",
+      "fileType": "image/jpeg",
+      "size": 97948,
+      "fileSize": 97948,
+      "folderId": null,
+      "ownerId": "user-1",
+      "s3Key": "users/user-1/documents/doc-d384bcba-dfbb-4c8c-ad13-4f483c950712/DL Front (5).jpeg",
+      "category": "GENERAL",
+      "tags": [
+        "general"
+      ],
+      "isFavorite": false,
+      "deleted": true,
+      "status": "COMPLETED",
+      "createdAt": "2026-08-25T15:45:45.115Z",
+      "updatedAt": "2026-08-26T07:09:53.241Z"
+    },
+    {
+      "documentId": "doc-603ccfeb-1236-40bd-b687-e91fe0c137b3",
+      "filename": "DL Front (4).jpeg",
+      "originalFilename": "DL Front (4).jpeg",
+      "mimeType": "image/jpeg",
+      "fileType": "image/jpeg",
+      "size": 97948,
+      "fileSize": 97948,
+      "folderId": null,
+      "ownerId": "user-1",
+      "s3Key": "users/user-1/documents/doc-603ccfeb-1236-40bd-b687-e91fe0c137b3/DL Front (4).jpeg",
+      "category": "GENERAL",
+      "tags": [
+        "general"
+      ],
+      "isFavorite": false,
+      "deleted": true,
+      "status": "COMPLETED",
+      "createdAt": "2026-08-25T15:44:40.035Z",
+      "updatedAt": "2026-08-26T07:10:00.183Z"
+    },
+    {
+      "documentId": "doc-7e86904d-1bb0-483b-8628-83e77ad60cb8",
+      "filename": "DL Front (3).jpeg",
+      "originalFilename": "DL Front (3).jpeg",
+      "mimeType": "image/jpeg",
+      "fileType": "image/jpeg",
+      "size": 97948,
+      "fileSize": 97948,
+      "folderId": null,
+      "ownerId": "user-1",
+      "s3Key": "users/user-1/documents/doc-7e86904d-1bb0-483b-8628-83e77ad60cb8/DL Front (3).jpeg",
+      "category": "GENERAL",
+      "tags": [
+        "general"
+      ],
+      "isFavorite": true,
+      "deleted": true,
+      "status": "COMPLETED",
+      "createdAt": "2026-08-25T15:39:38.030Z",
+      "updatedAt": "2026-08-26T07:09:39.239Z"
+    },
+    {
+      "documentId": "doc-43522c99-b384-4cda-a858-8a968d7f58a4",
+      "filename": "DL Front (2).jpeg",
+      "originalFilename": "DL Front (2).jpeg",
+      "mimeType": "image/jpeg",
+      "fileType": "image/jpeg",
+      "size": 97948,
+      "fileSize": 97948,
+      "folderId": null,
+      "ownerId": "user-1",
+      "s3Key": "users/user-1/documents/doc-43522c99-b384-4cda-a858-8a968d7f58a4/DL Front (2).jpeg",
+      "category": "GENERAL",
+      "tags": [
+        "general"
+      ],
+      "isFavorite": false,
+      "deleted": true,
+      "status": "COMPLETED",
+      "createdAt": "2026-08-25T15:38:20.857Z",
+      "updatedAt": "2026-08-26T07:09:56.601Z"
+    },
+    {
+      "documentId": "doc-c15770d4-b04c-4fb7-a035-43c74ac0c541",
+      "filename": "DL Front (1).jpeg",
+      "originalFilename": "DL Front (1).jpeg",
+      "mimeType": "image/jpeg",
+      "fileType": "image/jpeg",
+      "size": 97948,
+      "fileSize": 97948,
+      "folderId": null,
+      "ownerId": "user-1",
+      "s3Key": "users/user-1/documents/doc-c15770d4-b04c-4fb7-a035-43c74ac0c541/DL Front (1).jpeg",
+      "category": "GENERAL",
+      "tags": [
+        "general"
+      ],
+      "isFavorite": false,
+      "deleted": true,
+      "status": "COMPLETED",
+      "createdAt": "2026-08-25T15:37:21.355Z",
+      "updatedAt": "2026-08-26T07:10:05.768Z"
+    },
+    {
+      "documentId": "doc-70efae22-e6f4-41e4-a9e9-0d12d7430d0f",
+      "filename": "DL Front.jpeg",
+      "originalFilename": "DL Front.jpeg",
+      "mimeType": "image/jpeg",
+      "fileType": "image/jpeg",
+      "size": 97948,
+      "fileSize": 97948,
+      "folderId": null,
+      "ownerId": "user-1",
+      "s3Key": "users/user-1/documents/doc-70efae22-e6f4-41e4-a9e9-0d12d7430d0f/DL Front.jpeg",
+      "category": "GENERAL",
+      "tags": [
+        "general"
+      ],
+      "isFavorite": false,
+      "deleted": true,
+      "status": "COMPLETED",
+      "createdAt": "2026-08-25T15:35:03.024Z",
+      "updatedAt": "2026-08-26T07:10:10.463Z"
+    },
+    {
+      "documentId": "doc-4d43ba3f-3445-4a96-a7e5-21e700098fd3",
+      "filename": "DL Back.jpeg",
+      "originalFilename": "DL Back.jpeg",
+      "mimeType": "image/jpeg",
+      "fileType": "image/jpeg",
+      "size": 115194,
+      "fileSize": 115194,
+      "folderId": "folder-3d2fd746-43da-435a-a471-7d627c9fd687",
+      "ownerId": "user-1",
+      "s3Key": "users/user-1/documents/doc-4d43ba3f-3445-4a96-a7e5-21e700098fd3/DL Back.jpeg",
+      "category": "GENERAL",
+      "tags": [
+        "general"
+      ],
+      "isFavorite": false,
+      "deleted": true,
+      "status": "COMPLETED",
+      "createdAt": "2026-08-25T15:20:12.333Z",
+      "updatedAt": "2026-08-25T15:36:50.549Z"
+    },
+    {
+      "documentId": "doc-0858f1db-c02d-474f-8b91-8e232a5d6fec",
+      "filename": "DL Front.jpeg",
+      "originalFilename": "DL Front.jpeg",
+      "mimeType": "image/jpeg",
+      "fileType": "image/jpeg",
+      "size": 999999,
+      "fileSize": 999999,
+      "folderId": null,
+      "ownerId": "user-1",
+      "s3Key": "users/user-1/documents/doc-0858f1db-c02d-474f-8b91-8e232a5d6fec/DL Front.jpeg",
+      "category": "GENERAL",
+      "tags": [
+        "general"
+      ],
+      "isFavorite": false,
+      "deleted": true,
+      "status": "COMPLETED",
+      "createdAt": "2026-08-25T15:08:46.717Z",
+      "updatedAt": "2026-08-26T07:10:13.716Z"
+    },
+    {
+      "documentId": "doc-17292d70-e60b-4379-87e5-6fb7ab1fb5e6",
+      "filename": "DL Back.jpeg",
+      "originalFilename": "DL Back.jpeg",
+      "mimeType": "image/jpeg",
+      "fileType": "image/jpeg",
+      "size": 115194,
+      "fileSize": 115194,
+      "folderId": null,
+      "ownerId": "user-1",
+      "s3Key": "users/user-1/documents/doc-17292d70-e60b-4379-87e5-6fb7ab1fb5e6/DL Back.jpeg",
+      "category": "GENERAL",
+      "tags": [
+        "general"
+      ],
+      "isFavorite": false,
+      "deleted": true,
+      "status": "COMPLETED",
+      "createdAt": "2026-08-25T15:01:06.011Z",
+      "updatedAt": "2026-08-25T15:08:21.191Z"
+    },
+    {
+      "documentId": "doc-ea0400fd-3976-4fe9-b1e3-2e3706a2eb7d",
+      "filename": "Persisted_Contract_2026.pdf",
+      "originalFilename": "Persisted_Contract_2026.pdf",
+      "mimeType": "application/pdf",
+      "fileType": "application/pdf",
+      "size": 23,
+      "fileSize": 23,
+      "folderId": "folder-1",
+      "ownerId": "user-1",
+      "s3Key": "users/user-1/documents/doc-ea0400fd-3976-4fe9-b1e3-2e3706a2eb7d/Persisted_Contract_2026.pdf",
+      "category": "LEGAL",
+      "tags": [
+        "legal"
+      ],
+      "isFavorite": false,
+      "deleted": true,
+      "status": "COMPLETED",
+      "createdAt": "2026-08-25T14:57:12.701Z",
+      "updatedAt": "2026-08-26T07:10:17.741Z"
+    },
+    {
+      "documentId": "doc-1",
+      "filename": "Q3_Financial_Report_2024.pdf",
+      "originalFilename": "Q3_Financial_Report_2024.pdf",
+      "mimeType": "application/pdf",
+      "fileType": "application/pdf",
+      "size": 2458000,
+      "fileSize": 2458000,
+      "folderId": "folder-1",
+      "ownerId": "user-1",
+      "s3Key": "users/user-1/documents/Q3_Financial_Report_2024.pdf",
+      "category": "FINANCIAL",
+      "tags": [
+        "financial",
+        "q3",
+        "report"
+      ],
+      "isFavorite": false,
+      "deleted": true,
+      "status": "COMPLETED",
+      "createdAt": "2026-08-22T14:56:35.340Z",
+      "updatedAt": "2026-08-26T07:10:23.357Z"
+    },
+    {
+      "documentId": "doc-2",
+      "filename": "Software_Architecture_Overview.docx",
+      "originalFilename": "Software_Architecture_Overview.docx",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": 1845000,
+      "fileSize": 1845000,
+      "folderId": "folder-2",
+      "ownerId": "user-1",
+      "s3Key": "users/user-1/documents/Software_Architecture_Overview.docx",
+      "category": "TECHNICAL",
+      "tags": [
+        "architecture",
+        "docs",
+        "specs"
+      ],
+      "isFavorite": false,
+      "deleted": false,
+      "status": "COMPLETED",
+      "createdAt": "2026-08-23T14:56:35.341Z",
+      "updatedAt": "2026-08-26T07:11:11.427Z"
+    },
+    {
+      "documentId": "doc-3",
+      "filename": "Employee_Onboarding_Handbook.pdf",
+      "originalFilename": "Employee_Onboarding_Handbook.pdf",
+      "mimeType": "application/pdf",
+      "fileType": "application/pdf",
+      "size": 3120000,
+      "fileSize": 3120000,
+      "folderId": null,
+      "ownerId": "user-1",
+      "s3Key": "users/user-1/documents/Employee_Onboarding_Handbook.pdf",
+      "category": "HR",
+      "tags": [
+        "hr",
+        "onboarding",
+        "handbook"
+      ],
+      "isFavorite": false,
+      "deleted": false,
+      "status": "COMPLETED",
+      "createdAt": "2026-08-24T14:56:35.341Z",
+      "updatedAt": "2026-08-26T07:11:10.364Z"
+    },
+    {
+      "documentId": "doc-4",
+      "filename": "Legacy_API_Documentation_Draft.pdf",
+      "originalFilename": "Legacy_API_Documentation_Draft.pdf",
+      "mimeType": "application/pdf",
+      "fileType": "application/pdf",
+      "size": 950000,
+      "fileSize": 950000,
+      "folderId": null,
+      "ownerId": "user-1",
+      "s3Key": "users/user-1/documents/Legacy_API_Documentation_Draft.pdf",
+      "category": "TECHNICAL",
+      "tags": [
+        "draft",
+        "legacy"
+      ],
+      "isFavorite": false,
+      "deleted": true,
+      "status": "COMPLETED",
+      "createdAt": "2026-08-15T14:56:35.341Z",
+      "updatedAt": "2026-08-20T14:56:35.341Z"
+    }
+  ],
+  "folders": [],
+  "aiAnalyses": {
+    "doc-1": {
+      "documentId": "doc-1",
+      "summary": "Detailed financial performance review for Q3 2024 showing 18% quarter-over-quarter revenue growth, primary cost drivers in infrastructure scale, and positive free cash flow projection for Q4.",
+      "category": "FINANCIAL",
+      "keyPoints": [
+        "Total revenue increased by 18% QoQ to $4.2M.",
+        "Operational expenditure reduced by 5% through AWS serverless migration.",
+        "Cash reserves remain healthy at $12.5M.",
+        "Q4 revenue guidance projected between $4.5M and $4.8M."
+      ],
+      "sentiment": "POSITIVE",
+      "detectedPII": [
+        "Accountant Signature",
+        "Internal Tax ID"
+      ],
+      "confidenceScore": 0.96,
+      "modelUsed": "anthropic.claude-3-haiku-20240307-v1:0",
+      "processedAt": "2026-08-22T14:56:35.341Z"
+    },
+    "doc-2": {
+      "documentId": "doc-2",
+      "summary": "Technical architecture specification outlining microservices layout, Cognito JWT integration, DynamoDB single-table schema, and Bedrock AI document processing pipeline.",
+      "category": "TECHNICAL",
+      "keyPoints": [
+        "Event-driven processing pipeline using S3, SQS, and AWS Lambda.",
+        "Cognito User Pools enforcing role-based access control (USER / ADMIN).",
+        "Textract OCR combined with Claude 3 Haiku for automatic classification.",
+        "Presigned S3 URLs used for zero-server file transfers."
+      ],
+      "sentiment": "NEUTRAL",
+      "detectedPII": [],
+      "confidenceScore": 0.98,
+      "modelUsed": "anthropic.claude-3-haiku-20240307-v1:0",
+      "processedAt": "2026-08-23T14:56:35.341Z"
+    },
+    "doc-3": {
+      "documentId": "doc-3",
+      "summary": "Comprehensive onboarding reference manual for new employees detailing security protocols, document access policies, IT equipment setup, and standard operating procedures.",
+      "category": "HR",
+      "keyPoints": [
+        "Mandatory multi-factor authentication setup required within 24 hours.",
+        "Document sharing guidelines and security classification definitions.",
+        "Company code of conduct and remote work compliance standards."
+      ],
+      "sentiment": "POSITIVE",
+      "detectedPII": [
+        "HR Support Phone Number"
+      ],
+      "confidenceScore": 0.94,
+      "modelUsed": "anthropic.claude-3-haiku-20240307-v1:0",
+      "processedAt": "2026-08-24T14:56:35.341Z"
+    },
+    "doc-ea0400fd-3976-4fe9-b1e3-2e3706a2eb7d": {
+      "documentId": "doc-ea0400fd-3976-4fe9-b1e3-2e3706a2eb7d",
+      "summary": "Automatically analyzed content for Persisted_Contract_2026.pdf. Classified as LEGAL.",
+      "category": "LEGAL",
+      "keyPoints": [
+        "Document title: Persisted_Contract_2026.pdf",
+        "File format: application/pdf",
+        "Verified secure upload to storage."
+      ],
+      "sentiment": "NEUTRAL",
+      "detectedPII": [],
+      "confidenceScore": 0.95,
+      "modelUsed": "anthropic.claude-3-haiku-20240307-v1:0",
+      "processedAt": "2026-08-25T14:57:12.701Z"
+    },
+    "doc-17292d70-e60b-4379-87e5-6fb7ab1fb5e6": {
+      "documentId": "doc-17292d70-e60b-4379-87e5-6fb7ab1fb5e6",
+      "summary": "Automatically analyzed content for DL Back.jpeg. Classified as GENERAL.",
+      "category": "GENERAL",
+      "keyPoints": [
+        "Document title: DL Back.jpeg",
+        "File format: image/jpeg",
+        "Verified secure upload to storage."
+      ],
+      "sentiment": "NEUTRAL",
+      "detectedPII": [],
+      "confidenceScore": 0.95,
+      "modelUsed": "anthropic.claude-3-haiku-20240307-v1:0",
+      "processedAt": "2026-08-25T15:01:06.012Z"
+    },
+    "doc-0858f1db-c02d-474f-8b91-8e232a5d6fec": {
+      "documentId": "doc-0858f1db-c02d-474f-8b91-8e232a5d6fec",
+      "summary": "Automatically analyzed content for DL Front.jpeg. Classified as GENERAL.",
+      "category": "GENERAL",
+      "keyPoints": [
+        "Document title: DL Front.jpeg",
+        "File format: image/jpeg",
+        "Verified secure upload to storage."
+      ],
+      "sentiment": "NEUTRAL",
+      "detectedPII": [],
+      "confidenceScore": 0.95,
+      "modelUsed": "anthropic.claude-3-haiku-20240307-v1:0",
+      "processedAt": "2026-08-25T15:44:30.683Z"
+    },
+    "doc-4d43ba3f-3445-4a96-a7e5-21e700098fd3": {
+      "documentId": "doc-4d43ba3f-3445-4a96-a7e5-21e700098fd3",
+      "summary": "Automatically analyzed content for DL Back.jpeg. Classified as GENERAL.",
+      "category": "GENERAL",
+      "keyPoints": [
+        "Document title: DL Back.jpeg",
+        "File format: image/jpeg",
+        "Verified secure upload to storage."
+      ],
+      "sentiment": "NEUTRAL",
+      "detectedPII": [],
+      "confidenceScore": 0.95,
+      "modelUsed": "anthropic.claude-3-haiku-20240307-v1:0",
+      "processedAt": "2026-08-25T15:20:12.335Z"
+    },
+    "doc-70efae22-e6f4-41e4-a9e9-0d12d7430d0f": {
+      "documentId": "doc-70efae22-e6f4-41e4-a9e9-0d12d7430d0f",
+      "summary": "Automatically analyzed content for DL Front.jpeg. Classified as GENERAL.",
+      "category": "GENERAL",
+      "keyPoints": [
+        "Document title: DL Front.jpeg",
+        "File format: image/jpeg",
+        "Verified secure upload to storage."
+      ],
+      "sentiment": "NEUTRAL",
+      "detectedPII": [],
+      "confidenceScore": 0.95,
+      "modelUsed": "anthropic.claude-3-haiku-20240307-v1:0",
+      "processedAt": "2026-08-25T15:35:03.024Z"
+    },
+    "doc-c15770d4-b04c-4fb7-a035-43c74ac0c541": {
+      "documentId": "doc-c15770d4-b04c-4fb7-a035-43c74ac0c541",
+      "summary": "Automatically analyzed content for DL Front (1).jpeg. Classified as GENERAL.",
+      "category": "GENERAL",
+      "keyPoints": [
+        "Document title: DL Front (1).jpeg",
+        "File format: image/jpeg",
+        "Verified secure upload to storage."
+      ],
+      "sentiment": "NEUTRAL",
+      "detectedPII": [],
+      "confidenceScore": 0.95,
+      "modelUsed": "anthropic.claude-3-haiku-20240307-v1:0",
+      "processedAt": "2026-08-25T15:37:21.355Z"
+    },
+    "doc-43522c99-b384-4cda-a858-8a968d7f58a4": {
+      "documentId": "doc-43522c99-b384-4cda-a858-8a968d7f58a4",
+      "summary": "Automatically analyzed content for DL Front (2).jpeg. Classified as GENERAL.",
+      "category": "GENERAL",
+      "keyPoints": [
+        "Document title: DL Front (2).jpeg",
+        "File format: image/jpeg",
+        "Verified secure upload to storage."
+      ],
+      "sentiment": "NEUTRAL",
+      "detectedPII": [],
+      "confidenceScore": 0.95,
+      "modelUsed": "anthropic.claude-3-haiku-20240307-v1:0",
+      "processedAt": "2026-08-25T15:38:20.857Z"
+    },
+    "doc-7e86904d-1bb0-483b-8628-83e77ad60cb8": {
+      "documentId": "doc-7e86904d-1bb0-483b-8628-83e77ad60cb8",
+      "summary": "Automatically analyzed content for DL Front (3).jpeg. Classified as GENERAL.",
+      "category": "GENERAL",
+      "keyPoints": [
+        "Document title: DL Front (3).jpeg",
+        "File format: image/jpeg",
+        "Verified secure upload to storage."
+      ],
+      "sentiment": "NEUTRAL",
+      "detectedPII": [],
+      "confidenceScore": 0.95,
+      "modelUsed": "anthropic.claude-3-haiku-20240307-v1:0",
+      "processedAt": "2026-08-25T15:39:38.030Z"
+    },
+    "doc-603ccfeb-1236-40bd-b687-e91fe0c137b3": {
+      "documentId": "doc-603ccfeb-1236-40bd-b687-e91fe0c137b3",
+      "summary": "Automatically analyzed content for DL Front (4).jpeg. Classified as GENERAL.",
+      "category": "GENERAL",
+      "keyPoints": [
+        "Document title: DL Front (4).jpeg",
+        "File format: image/jpeg",
+        "Verified secure upload to storage."
+      ],
+      "sentiment": "NEUTRAL",
+      "detectedPII": [],
+      "confidenceScore": 0.95,
+      "modelUsed": "anthropic.claude-3-haiku-20240307-v1:0",
+      "processedAt": "2026-08-25T15:44:40.035Z"
+    },
+    "doc-d384bcba-dfbb-4c8c-ad13-4f483c950712": {
+      "documentId": "doc-d384bcba-dfbb-4c8c-ad13-4f483c950712",
+      "summary": "Automatically analyzed content for DL Front (5).jpeg. Classified as GENERAL.",
+      "category": "GENERAL",
+      "keyPoints": [
+        "Document title: DL Front (5).jpeg",
+        "File format: image/jpeg",
+        "Verified secure upload to storage."
+      ],
+      "sentiment": "NEUTRAL",
+      "detectedPII": [],
+      "confidenceScore": 0.95,
+      "modelUsed": "anthropic.claude-3-haiku-20240307-v1:0",
+      "processedAt": "2026-08-25T15:45:45.116Z"
+    },
+    "doc-fd3c588b-6239-4495-a8e6-d5615e0e02e2": {
+      "documentId": "doc-fd3c588b-6239-4495-a8e6-d5615e0e02e2",
+      "summary": "Automatically analyzed content for project phase1 pdf.pdf. Classified as GENERAL.",
+      "category": "GENERAL",
+      "keyPoints": [
+        "Document title: project phase1 pdf.pdf",
+        "File format: application/pdf",
+        "Verified secure upload to storage."
+      ],
+      "sentiment": "NEUTRAL",
+      "detectedPII": [],
+      "confidenceScore": 0.95,
+      "modelUsed": "anthropic.claude-3-haiku-20240307-v1:0",
+      "processedAt": "2026-08-25T16:32:51.259Z"
+    },
+    "doc-1cb2993a-5cf4-4b0f-b6b5-435f01df8a82": {
+      "documentId": "doc-1cb2993a-5cf4-4b0f-b6b5-435f01df8a82",
+      "summary": "Automatically analyzed content for PHASE 2 REPORT.docx. Classified as FINANCIAL.",
+      "category": "FINANCIAL",
+      "keyPoints": [
+        "Document title: PHASE 2 REPORT.docx",
+        "File format: application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "Verified secure upload to storage."
+      ],
+      "sentiment": "NEUTRAL",
+      "detectedPII": [],
+      "confidenceScore": 0.95,
+      "modelUsed": "anthropic.claude-3-haiku-20240307-v1:0",
+      "processedAt": "2026-08-25T16:35:53.241Z"
+    },
+    "doc-c6d3a520-00a6-4d57-92b4-0c86630f019b": {
+      "documentId": "doc-c6d3a520-00a6-4d57-92b4-0c86630f019b",
+      "summary": "Automatically analyzed content for DL Back.jpeg. Classified as GENERAL.",
+      "category": "GENERAL",
+      "keyPoints": [
+        "Document title: DL Back.jpeg",
+        "File format: image/jpeg",
+        "Verified secure upload to storage."
+      ],
+      "sentiment": "NEUTRAL",
+      "detectedPII": [],
+      "confidenceScore": 0.95,
+      "modelUsed": "anthropic.claude-3-haiku-20240307-v1:0",
+      "processedAt": "2026-08-26T07:08:53.052Z"
+    }
+  },
+  "shares": [
+    {
+      "shareId": "share-1",
+      "documentId": "doc-1",
+      "documentName": "Q3_Financial_Report_2024.pdf",
+      "ownerId": "user-1",
+      "sharedWith": "colleague@example.com",
+      "permission": "VIEW",
+      "createdAt": "2026-08-23T14:56:35.341Z",
+      "expiresAt": null
+    }
+  ],
+  "notifications": [
+    {
+      "notificationId": "notif-1",
+      "userId": "user-1",
+      "title": "Document Processing Complete",
+      "message": "AI analysis for Q3_Financial_Report_2024.pdf is ready.",
+      "read": false,
+      "timestamp": "2026-08-25T10:56:35.341Z",
+      "type": "SYSTEM"
+    },
+    {
+      "notificationId": "notif-2",
+      "userId": "user-1",
+      "title": "Document Shared",
+      "message": "Software_Architecture_Overview.docx was shared with colleague@example.com",
+      "read": true,
+      "timestamp": "2026-08-24T14:56:35.341Z",
+      "type": "SHARE"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "audit-1fd56307-e935-4e97-89a8-3fb29f350ed1",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_SOFT_DELETE",
+      "documentId": "doc-1",
+      "documentName": "Q3_Financial_Report_2024.pdf",
+      "timestamp": "2026-08-26T07:10:23.357Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-3601e3af-7523-4c6e-b8aa-8ba7da697b37",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_SOFT_DELETE",
+      "documentId": "doc-ea0400fd-3976-4fe9-b1e3-2e3706a2eb7d",
+      "documentName": "Persisted_Contract_2026.pdf",
+      "timestamp": "2026-08-26T07:10:17.741Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-12ce87c0-d2f3-4a8f-ba14-cc198823df5f",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_SOFT_DELETE",
+      "documentId": "doc-0858f1db-c02d-474f-8b91-8e232a5d6fec",
+      "documentName": "DL Front.jpeg",
+      "timestamp": "2026-08-26T07:10:13.716Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-5781c03e-043b-48ed-84ed-ed1886438229",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_SOFT_DELETE",
+      "documentId": "doc-70efae22-e6f4-41e4-a9e9-0d12d7430d0f",
+      "documentName": "DL Front.jpeg",
+      "timestamp": "2026-08-26T07:10:10.463Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-cc303335-7883-4fe1-99e1-9377691c9de3",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_SOFT_DELETE",
+      "documentId": "doc-c15770d4-b04c-4fb7-a035-43c74ac0c541",
+      "documentName": "DL Front (1).jpeg",
+      "timestamp": "2026-08-26T07:10:05.768Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-cda48b4d-cf90-46ad-adfc-b06eec79a232",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_SOFT_DELETE",
+      "documentId": "doc-603ccfeb-1236-40bd-b687-e91fe0c137b3",
+      "documentName": "DL Front (4).jpeg",
+      "timestamp": "2026-08-26T07:10:00.183Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-b81e9e6d-9ace-4bc2-88c4-e4919dd3d8ac",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_SOFT_DELETE",
+      "documentId": "doc-43522c99-b384-4cda-a858-8a968d7f58a4",
+      "documentName": "DL Front (2).jpeg",
+      "timestamp": "2026-08-26T07:09:56.601Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-911ca861-d0ff-4d38-8539-59a83e682eaf",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_SOFT_DELETE",
+      "documentId": "doc-d384bcba-dfbb-4c8c-ad13-4f483c950712",
+      "documentName": "DL Front (5).jpeg",
+      "timestamp": "2026-08-26T07:09:53.241Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-333e1dc7-e10a-4f7a-82a0-d69c6d6c20b3",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_SOFT_DELETE",
+      "documentId": "doc-7e86904d-1bb0-483b-8628-83e77ad60cb8",
+      "documentName": "DL Front (3).jpeg",
+      "timestamp": "2026-08-26T07:09:39.239Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-8b32dd1e-bca0-445d-9ea8-56c83d43ed8d",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_SOFT_DELETE",
+      "documentId": "doc-fd3c588b-6239-4495-a8e6-d5615e0e02e2",
+      "documentName": "project phase1 pdf.pdf",
+      "timestamp": "2026-08-26T07:09:33.560Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-571185e7-0dc2-4110-8b5a-62e710a3d776",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_SOFT_DELETE",
+      "documentId": "doc-1cb2993a-5cf4-4b0f-b6b5-435f01df8a82",
+      "documentName": "PHASE 2 REPORT.docx",
+      "timestamp": "2026-08-26T07:09:27.477Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-93ecc46a-7f05-442e-b7dc-d64664d7614c",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_SOFT_DELETE",
+      "documentId": "doc-c6d3a520-00a6-4d57-92b4-0c86630f019b",
+      "documentName": "DL Back.jpeg",
+      "timestamp": "2026-08-26T07:09:23.985Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-5ccf9543-9081-4de0-abb8-511777b19e4e",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_UPLOAD",
+      "documentId": "doc-c6d3a520-00a6-4d57-92b4-0c86630f019b",
+      "documentName": "DL Back.jpeg",
+      "timestamp": "2026-08-26T07:08:53.052Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-e0823e09-da86-4511-82f6-4174ff322db3",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_DOWNLOAD",
+      "documentId": "doc-ea0400fd-3976-4fe9-b1e3-2e3706a2eb7d",
+      "documentName": "Persisted_Contract_2026.pdf",
+      "timestamp": "2026-08-25T16:36:31.657Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-8d862b3d-8b51-4b6c-a463-600d06b621a1",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_DOWNLOAD",
+      "documentId": "doc-7e86904d-1bb0-483b-8628-83e77ad60cb8",
+      "documentName": "DL Front (3).jpeg",
+      "timestamp": "2026-08-25T16:36:14.080Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-6ec94f7c-ac0d-4326-b193-8ff96cde819b",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_UPLOAD",
+      "documentId": "doc-1cb2993a-5cf4-4b0f-b6b5-435f01df8a82",
+      "documentName": "PHASE 2 REPORT.docx",
+      "timestamp": "2026-08-25T16:35:53.241Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-70cd2e6b-b381-4080-bd0d-a8b57fe8955c",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_DOWNLOAD",
+      "documentId": "doc-fd3c588b-6239-4495-a8e6-d5615e0e02e2",
+      "documentName": "project phase1 pdf.pdf",
+      "timestamp": "2026-08-25T16:35:04.162Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-097fa6f5-1500-422e-839f-7d1b72d6b439",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_UPLOAD",
+      "documentId": "doc-fd3c588b-6239-4495-a8e6-d5615e0e02e2",
+      "documentName": "project phase1 pdf.pdf",
+      "timestamp": "2026-08-25T16:32:51.259Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-a30f7a96-d296-4c04-9023-898463de1a8d",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_PERMANENT_DELETE",
+      "documentId": "doc-bf85e836-023e-4e1c-a3e6-ba61371da092",
+      "documentName": "DL Front.jpeg",
+      "timestamp": "2026-08-25T15:47:05.882Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-0c601a47-b196-435c-acfe-339f28ab748e",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_UPLOAD",
+      "documentId": "doc-d384bcba-dfbb-4c8c-ad13-4f483c950712",
+      "documentName": "DL Front (5).jpeg",
+      "timestamp": "2026-08-25T15:45:45.116Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-a6054b67-cb43-4ce6-900b-469e13d154e8",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_UPLOAD",
+      "documentId": "doc-603ccfeb-1236-40bd-b687-e91fe0c137b3",
+      "documentName": "DL Front (4).jpeg",
+      "timestamp": "2026-08-25T15:44:40.035Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-1a405021-60ec-424c-9ef3-8b7f0ab13745",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_REPLACE",
+      "documentId": "doc-0858f1db-c02d-474f-8b91-8e232a5d6fec",
+      "documentName": "DL Front.jpeg",
+      "timestamp": "2026-08-25T15:44:30.683Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-0b157a72-c24e-4637-b64c-ab236298b506",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_REPLACE",
+      "documentId": "doc-0858f1db-c02d-474f-8b91-8e232a5d6fec",
+      "documentName": "DL Front.jpeg",
+      "timestamp": "2026-08-25T15:43:59.037Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-54d7bd7b-2fec-4b8a-a5e3-8cbcd758c761",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_UPLOAD",
+      "documentId": "doc-7e86904d-1bb0-483b-8628-83e77ad60cb8",
+      "documentName": "DL Front.jpeg",
+      "timestamp": "2026-08-25T15:39:38.030Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-1b960a62-e7ea-4eb5-9f5d-0dd90fc8b6b0",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_PERMANENT_DELETE",
+      "documentId": "doc-3abeb394-50eb-4fe0-a3e6-70762d3e0c38",
+      "documentName": "DL Front.jpeg",
+      "timestamp": "2026-08-25T15:38:46.673Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-b89069fb-6aa1-4a0e-82e2-4c23a93c9929",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_UPLOAD",
+      "documentId": "doc-43522c99-b384-4cda-a858-8a968d7f58a4",
+      "documentName": "DL Front.jpeg",
+      "timestamp": "2026-08-25T15:38:20.857Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-73f5803d-4e89-411c-a4a8-fb51f1ea46de",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_UPLOAD",
+      "documentId": "doc-c15770d4-b04c-4fb7-a035-43c74ac0c541",
+      "documentName": "DL Front.jpeg",
+      "timestamp": "2026-08-25T15:37:21.355Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-36f648d8-11ea-4e93-83b7-693ea19c7ba9",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_SOFT_DELETE",
+      "documentId": "doc-4d43ba3f-3445-4a96-a7e5-21e700098fd3",
+      "documentName": "DL Back.jpeg",
+      "timestamp": "2026-08-25T15:36:50.550Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-88e068ea-67b2-4cb0-a1a2-a50e15b63fd9",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_SOFT_DELETE",
+      "documentId": "doc-bf85e836-023e-4e1c-a3e6-ba61371da092",
+      "documentName": "DL Front.jpeg",
+      "timestamp": "2026-08-25T15:35:48.710Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-07da9324-e46d-49bc-9570-1aee29c996fa",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_SOFT_DELETE",
+      "documentId": "doc-70efae22-e6f4-41e4-a9e9-0d12d7430d0f",
+      "documentName": "DL Front.jpeg",
+      "timestamp": "2026-08-25T15:35:39.980Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-bfa0a6eb-e056-4cc0-992d-c0aea513c631",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_UPLOAD",
+      "documentId": "doc-70efae22-e6f4-41e4-a9e9-0d12d7430d0f",
+      "documentName": "DL Front.jpeg",
+      "timestamp": "2026-08-25T15:35:03.024Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-8b059235-03f4-4c69-936c-95780166fdd1",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_UPLOAD",
+      "documentId": "doc-bf85e836-023e-4e1c-a3e6-ba61371da092",
+      "documentName": "DL Front.jpeg",
+      "timestamp": "2026-08-25T15:34:48.381Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-71a8744b-211f-4ed3-aa67-2f4c769ff2e7",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_UPLOAD",
+      "documentId": "doc-4d43ba3f-3445-4a96-a7e5-21e700098fd3",
+      "documentName": "DL Back.jpeg",
+      "timestamp": "2026-08-25T15:20:12.336Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-0f65a860-ce5e-45b5-b5b3-27657f847fd1",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_UPLOAD",
+      "documentId": "doc-0858f1db-c02d-474f-8b91-8e232a5d6fec",
+      "documentName": "DL Front.jpeg",
+      "timestamp": "2026-08-25T15:08:46.717Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-9dd54f6d-555d-444c-b776-a9ea626d256f",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_UPLOAD",
+      "documentId": "doc-3abeb394-50eb-4fe0-a3e6-70762d3e0c38",
+      "documentName": "DL Front.jpeg",
+      "timestamp": "2026-08-25T15:08:33.545Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-cd66b2f7-a630-4cb8-a95f-44ef9830c3b5",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_SOFT_DELETE",
+      "documentId": "doc-17292d70-e60b-4379-87e5-6fb7ab1fb5e6",
+      "documentName": "DL Back.jpeg",
+      "timestamp": "2026-08-25T15:08:21.191Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-1026b614-3534-4a35-91d4-ac79b0aaa819",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_UPLOAD",
+      "documentId": "doc-17292d70-e60b-4379-87e5-6fb7ab1fb5e6",
+      "documentName": "DL Back.jpeg",
+      "timestamp": "2026-08-25T15:01:06.012Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-0b7983fc-6d7c-408c-9787-4ef67ebd072d",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_UPLOAD",
+      "documentId": "doc-ea0400fd-3976-4fe9-b1e3-2e3706a2eb7d",
+      "documentName": "Persisted_Contract_2026.pdf",
+      "timestamp": "2026-08-25T14:57:12.701Z",
+      "ipAddress": "::1",
+      "status": "SUCCESS"
+    },
+    {
+      "id": "audit-1",
+      "userId": "user-1",
+      "userEmail": "admin@example.com",
+      "action": "DOCUMENT_UPLOAD",
+      "documentId": "doc-1",
+      "documentName": "Q3_Financial_Report_2024.pdf",
+      "timestamp": "2026-08-22T14:56:35.341Z",
+      "ipAddress": "192.168.1.100",
+      "status": "SUCCESS"
+    }
+  ],
+  "users": [
+    {
+      "userId": "user-1",
+      "email": "admin@example.com",
+      "name": "Admin User",
+      "role": "ADMIN",
+      "status": "ACTIVE",
+      "createdAt": "2026-07-26T14:56:35.341Z"
+    },
+    {
+      "userId": "user-2",
+      "email": "colleague@example.com",
+      "name": "Jane Doe",
+      "role": "USER",
+      "status": "ACTIVE",
+      "createdAt": "2026-08-10T14:56:35.341Z"
+    },
+    {
+      "userId": "user-6bc365e5-5711-4d1e-b6d5-b14b1df62f3e",
+      "email": "kishol2004@gmail.com",
+      "name": "Kishol",
+      "role": "USER",
+      "status": "ACTIVE",
+      "createdAt": "2026-08-25T16:15:59.271Z"
+    }
+  ],
+  "adminMasterPassword": "Admin@2026"
+}

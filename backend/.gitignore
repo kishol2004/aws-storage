@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+cdk.out/
+dist/
+.build/
+*.js.map
+
+# Environment files with real secrets
+.env
+.env.local
+.env.production
+
+# CDK output
+cdk.out/
+
+# Build artifacts
+*.js
+!esbuild.mjs
+!jest.config.js
+*.d.ts
+
+# Logs
+*.log
+npm-debug.log*
+
+# AWS credentials — never commit
+.aws/credentials
+.aws/config
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,72 @@
+{
+  "name": "securedoc-ai-backend",
+  "version": "1.0.0",
+  "description": "AI-Powered Secure Cloud Document Management — AWS Serverless Backend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --testPathPattern=tests/unit",
+    "test:security": "node --experimental-vm-modules node_modules/jest/bin/jest.js --testPathPattern=tests/security",
+    "test:all": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "cdk": "npx cdk",
+    "synth": "npx cdk synth",
+    "deploy": "npx cdk deploy --all --require-approval never",
+    "destroy": "npx cdk destroy --all",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.658.0",
+    "@aws-sdk/client-cloudwatch": "^3.658.0",
+    "@aws-sdk/client-cognito-identity-provider": "^3.658.0",
+    "@aws-sdk/client-dynamodb": "^3.658.0",
+    "@aws-sdk/client-s3": "^3.658.0",
+    "@aws-sdk/client-sqs": "^3.658.0",
+    "@aws-sdk/client-textract": "^3.658.0",
+    "@aws-sdk/lib-dynamodb": "^3.658.0",
+    "@aws-sdk/s3-request-presigner": "^3.658.0",
+    "@aws-sdk/util-dynamodb": "^3.658.0",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "uuid": "^10.0.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.145",
+    "@types/jest": "^29.5.13",
+    "@types/node": "^22.7.5",
+    "@types/uuid": "^10.0.0",
+    "aws-cdk-lib": "^2.163.0",
+    "constructs": "^10.4.2",
+    "esbuild": "^0.24.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.6.3"
+  },
+  "jest": {
+    "preset": "ts-jest/presets/default-esm",
+    "extensionsToTreatAsEsm": [
+      ".ts"
+    ],
+    "moduleNameMapper": {
+      "^(\\.{1,2}/.*)\\.js$": "$1"
+    },
+    "transform": {
+      "^.+\\.tsx?$": [
+        "ts-jest",
+        {
+          "useESM": true,
+          "tsconfig": "./tsconfig.json"
+        }
+      ]
+    },
+    "testEnvironment": "node",
+    "collectCoverageFrom": [
+      "src/**/*.ts",
+      "!src/**/*.d.ts"
+    ]
+  }
+}
